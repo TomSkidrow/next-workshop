@@ -87,7 +87,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore starter templates for Next.js.
+            อยู่ในระหว่างดำเนินการปรับปรุง
           </p>
         </a>
 
@@ -104,7 +104,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            ยินดีต้อนรับเข้าสู๋เว็บไซต์
+            ยินดีต้อนรับเข้าสู่เว็บไซต์
           </p>
         </a>
       </div>
